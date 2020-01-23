@@ -1,0 +1,11 @@
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/bin/Debug/netcoreapp2.2/lists-exercise.deps.json
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/bin/Debug/netcoreapp2.2/lists-exercise.runtimeconfig.json
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/bin/Debug/netcoreapp2.2/lists-exercise.runtimeconfig.dev.json
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/bin/Debug/netcoreapp2.2/lists-exercise.dll
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/bin/Debug/netcoreapp2.2/lists-exercise.pdb
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/obj/Debug/netcoreapp2.2/lists-exercise.csprojAssemblyReference.cache
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/obj/Debug/netcoreapp2.2/lists-exercise.csproj.CoreCompileInputs.cache
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/obj/Debug/netcoreapp2.2/lists-exercise.AssemblyInfoInputs.cache
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/obj/Debug/netcoreapp2.2/lists-exercise.AssemblyInfo.cs
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/obj/Debug/netcoreapp2.2/lists-exercise.dll
+/Users/rosewisotzky/practice-space/csharp/lists-exercise/obj/Debug/netcoreapp2.2/lists-exercise.pdb
